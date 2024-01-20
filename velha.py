@@ -72,8 +72,8 @@ def valida_jogadas(jogadas, jogador):
 
 
 def novo_jogo():
-    print('Novo jogo...')
-    print('Cada posição do tabuleiro é definida por um numero')
+    print('Novo jogo... \n')
+    print('Cada posição do tabuleiro é definida por um numero \n')
     exibe_tabuleiro(['0','1','2','3','4','5','6','7','8'])
 
 
